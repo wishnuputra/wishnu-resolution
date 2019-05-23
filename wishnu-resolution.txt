@@ -1,0 +1,4 @@
+Wishnu Resolution:
+- Learning iOS Development
+- Learning Android Development
+- Learning Web Development
